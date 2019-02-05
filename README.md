@@ -15,7 +15,7 @@ responsible if you deploy this and it causes undesirable results.
 
 - Monitors an arbitrary number of directories with a file-based config
 - Supports regex-based ignore patterns
-- Configurable polling latency for filesystems than need it (such as network shares)
+- Configurable polling latency for filesystems that need it (such as network shares)
 
 ## Running the Script
 
