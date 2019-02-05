@@ -1,0 +1,9 @@
+configatron.url = "http://discordwebhook.url"
+configatron.directories = ['/path/to/dir1', '/path/to/dir2']
+configatron.ignore_patterns = [/^ignore.this$/]
+configatron.username = 'Webhook Username'
+configatron.avatar_url = 'https://avatar.url'
+configatron.author_url = 'https://author.url'
+configatron.embed_title = 'Name of Embed'
+configatron.poll_latency = 10.minutes
+configatron.elay_between_callbacks = 4.seconds
